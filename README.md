@@ -1,4 +1,4 @@
-# QR Code Generator Bookmarklet
+# QR Code Generator Bookmarklet by Overlookk
 
 ## Overview
 
